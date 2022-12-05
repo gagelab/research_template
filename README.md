@@ -17,7 +17,7 @@ git clone git@github.com:gagelab/research_template.git
 ```
 
 You can then rename the directory and modify the contents as you see fit. You can also use the green button
-in the upper right hand corner of the page that says *Use this template* to create a new repository.
+in the upper right hand corner of the page that says **"Use this template"** to create a new repository.
 
 ## Contact
 
